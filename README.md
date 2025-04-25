@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=35&duration=2500&pause=1000&color=00FF0F&center=true&random=false&width=1012&height=75&lines=Hey+There!%F0%9F%91%8B;I'm+HaltingColt522!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-Hey! I'm an 17yo, 12th-grade student with a passion for coding and a commitment to public service through fire defense.
+Hey! I'm an 18yo, 12th-grade student with a passion for coding and a commitment to public service through fire defense.
 
 - 🧑‍🚒 Active member of the fire brigade
 - 💻 Passionate about using C and C++. Sometimes also Python and Pascal.
